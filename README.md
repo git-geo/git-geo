@@ -1,2 +1,2 @@
 # Scary website
-## This site was created only for fun purposes
+This site was created only for fun purposes
